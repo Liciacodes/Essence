@@ -11,7 +11,9 @@ background-color:lightslategrey;
     position: fixed;
     top: 0;
     width: 100%;
+    
 }
+/*g*/
 
 .main-nav{
     display: flex;
