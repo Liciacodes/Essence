@@ -1,2 +1,2 @@
 # Essence
-# A small project for practicing css grid
+# I created the landing page of a perfume store using css grid
